@@ -1,11 +1,12 @@
 # Garbage-AICTE
 🧠 Garbage Classification Using AI and ML
 
-🚀 Internship Project – Edunet Foundation | AICTE & Shell Collaboration
-Internship Duration: 16th June 2025 – 16th July 2025
-Intern Name: KRISHNA JI
-AICTE Student ID: STU618b0999990041746626049
-AICTE Internship ID: INTERNSHIP_174d168d681834ebc3d8
+**Internship Project – Edunet Foundation | AICTE & Shell Collaboration**  
+**Internship Duration:** 16th June 2025 – 16th July 2025  
+**Intern Name:** KRISHNA JI  
+**AICTE Student ID:** STU618b0999990041746626049  
+**AICTE Internship ID:** INTERNSHIP_174d168d681834ebc3d8  
+
 
 📌 Project Overview
 
