@@ -1,5 +1,7 @@
 # Garbage-AICTE
-🧠 Garbage Classification Using AI and ML
+<p align="center">
+  <strong>🧠 Garbage Classification Using AI and ML</strong>
+</p>
 
 **Internship Project – Edunet Foundation | AICTE & Shell Collaboration**  
 **Internship Duration:** 16th June 2025 – 16th July 2025  
